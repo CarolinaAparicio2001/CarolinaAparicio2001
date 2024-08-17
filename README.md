@@ -5,8 +5,8 @@ I am a Master's student in Business Analytics with a passion for turning data in
 
 <div>
   <a href="https://github.com/CarolinaAparicio2001">
-  <img heigh= "180cm" src = "https://github-readme-stats.vercel.app/api?username=CarolinaAparicio2001&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/_>
-  <img heigh= "180cm" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=CarolinaAparicio2001&layout=compact&langs_count=16&theme=dracula"/_>
+  <img height= "180cm" src = "https://github-readme-stats.vercel.app/api?username=CarolinaAparicio2001&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/_>
+  <img height= "180cm" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=CarolinaAparicio2001&layout=compact&langs_count=16&theme=dracula"/_>
 </div>
 
 <div style="display: inline_block"><br>
