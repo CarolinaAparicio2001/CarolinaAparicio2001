@@ -1,0 +1,26 @@
+## Hi, I-m Carolina👋 :computer: 
+
+I am a Master's student in Business Analytics with a passion for turning data into actionable insights. My academic journey has eqquiped me with the skills to analyze complex data sets, develop predictive models, and communicate findings effectively to drive business decisions.
+
+
+<div>
+  <a href="https://github.com/CarolinaAparicio2001">
+  <img heigh= "180cm" src = "https://github-readme-stats.vercel.app/api?username=CarolinaAparicio2001&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/_>
+  <img heigh= "180cm" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=CarolinaAparicio2001&layout=compact&langs_count=16&theme=dracula"/_>
+</div>
+
+ 
+<!--
+**CarolinaAparicio2001/CarolinaAparicio2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
