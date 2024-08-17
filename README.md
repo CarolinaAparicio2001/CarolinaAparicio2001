@@ -1,4 +1,4 @@
-## Hi, I-m Carolina👋 :computer: 
+## Hi, I'm Carolina👋 :computer: 
 
 I am a Master's student in Business Analytics with a passion for turning data into actionable insights. My academic journey has eqquiped me with the skills to analyze complex data sets, develop predictive models, and communicate findings effectively to drive business decisions.
 
